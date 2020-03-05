@@ -1,0 +1,355 @@
+    1  sudo dmidecode -t system 
+    2  sudo dmidecode -t system
+    3  app get
+    4  -app get
+    5  ls
+    6  ls Pictures
+    7  pwd
+    8  ls /
+    9  ls /root
+   10  ls /snap
+   11  pwd
+   12  cd /
+   13  pw
+   14  pwd
+   15  cd /home/wilder/Pictures
+   16  pwd
+   17  ..
+   18  cd ..
+   19  xd
+   20  pwd
+   21  cd ..
+   22  ls
+   23  ls bin
+   24  cd /home/wilder
+   25  cd /home/wilders
+   26  pwd
+   27  cd Images
+   28  ~
+   29  cd ~
+   30  cd ~/Pictures
+   31  cd ..
+   32  pwd
+   33  cd ~/Pictures
+   34  mkdir quetes
+   35  mkdir -p quetes/shell/legumes quetes/shell/fruits
+   36  mkdir quetes/shelle/effacez-moi quets/shell/delete-me
+   37  ls quetes/shell
+   38  rmdir quetes/shell/legumes quetes/shell
+   39  rmdir quetes/shell/legumes quetes/shell/fruits
+   40  cd ~
+   41  mkdir quetes
+   42  rmdir quetes
+   43  mkdir -p quetes/fruits
+   44  cd ~/quetes/fruits
+   45  touch poire
+   46  touch pomme
+   47  touche carotte fraise  chou-rave chou-fleur courgette
+   48  touch carotte fraise
+   49  chou-rave chou-fleur
+   50  ls
+   51  ls -l ~/.bashrc
+   52  touch ~/.bashcr
+   53  ls -l/ ~/.bashcr
+   54  ls -l ~/bashcr
+   55  ls -l ~ /.bashrc
+   56  cp fraise pommeverte
+   57  cd ..
+   58  pwd
+   59  rm fruits
+   60  rm -r fruits
+   61  history
+   62  sudo apt-get install -y tree wget unzip
+   63  cd quetes/shell
+   64  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+   65  unzip planets.zip
+   66  eog planets
+   67  cd /planets
+   68  cd planets
+   69  mkdir real
+   70  mkdir fictionnal
+   71  mkdir inhabited
+   72  cd real
+   73  mkdir telluric
+   74  mkdir gas-giants
+   75  mkdir dwarf-planets
+   76  cd ..
+   77  mv earth jupiter mars neptune pluto uranus venus real/
+   78  mv earth real
+   79  mv earth.jpg real/
+   80  earth.jpeg real/
+   81  mv earth.jpeg real/
+   82  mv jupiter.jpeg pluto.jpeg uranus.jpeg venus.jpeg saturn.jpeg real/
+   83  mv mars.jpeg mercury.jpeg neptune.jpeg real/
+   84  mv coruscant.jpeg cybertron.jpeg fictionnal/
+   85  mv coruscant.jpeg cybertron.jpeg inhabited/
+   86  arrakis.jpeg fictionnal/
+   87  mv arrakis.jpeg fictionnal/
+   88  mv earth.jpeg jupiter.jpeg mars.jpeg mercury.jpeg neptune.jpeg pluto.jpeg uranus.jpeg venus.jpeg real/
+   89  cd quetes/shell/planets
+   90  mv earth.jpeg jupiter.jpeg mars.jpeg mercury.jpeg neptune.jpeg pluto.jpeg uranus.jpeg venus.jpeg real/
+   91  mv arrakis.jpeg coruscant.jpeg cybertron.jpeg fictionnal/
+   92  mv saturn.jpeg real/
+   93  cd real
+   94  mv earth.jpeg mars.jpeg venus.jpeg mercury.jpeg telluric/
+   95  mv jupiter.jpeg neptune.jpeg uranus.jpeg  saturn.jpeg gas-giants/
+   96  rm pluto.jpeg
+   97  cd telluric
+   98  history
+   99  cp earth.jpeg ~/quetes/shell/planets/inhabited
+  100  cd ~/quetes/shell/planets/fictionnal
+  101  cp coruscant.jpeg cybertron.jpeg ~/quetes/shell/planets/inhabited
+  102  cd ~/quetes/shell/planets
+  103  tree
+  104  history
+  105  cd fictionnal
+  106  cp arrakis.jpeg ~/quetes/shell/planets/inhabited
+  107  cd ..
+  108  tree
+  109  history
+  110  ls ~ > home.contents.txt
+  111  cat > langages.txt
+  112  cat langage.txt
+  113  cat langages.txt
+  114  wc langages.txt
+  115  grep java 
+  116  get https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  117  hystory
+  118  history
+  119  -app get https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  120  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  121  grep "france,php" < wilders.csv | sort php_france_2019.csv
+  122  grep "france,php" < wilders.csv
+  123  grep "france,php" > wilders.csv
+  124  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  125  grep "france,php" < wilders.csv
+  126  wc < wilders.cvs
+  127  wc < wilders.csv
+  128  head wilders.csv
+  129  grep "java" < wilders.csv | wc -l
+  130  grep "Java" < wilders.csv | wc -l
+  131  grep Java wilders.csv > Java.csv
+  132  grep PHP wilders.csv > php.csv
+  133  cat php.csv Java.csv | sort -u
+  134  cat Java.csv php.csv | sort > all.csv
+  135  grep "PHP,France" wilders.csv > php_france_2019.csv
+  136  grep "France,PHP" wilders.csv > php_france_2019.csv
+  137  grep France,PHP wilders.csv > php_test.csv
+  138  grep PHP wilders.csv > php.csv
+  139  grep PHP France wilders.csv > troi.csv
+  140  grep JavaScript Biarritz wilders.csv > tututut.csv
+  141  grep Javascript Biarritz Toulouse wilders.csv > javascript_biarritz_toulouse.csv
+  142  grep PHP France 2019 wilders.csv > php_france_2019.csv
+  143  history
+  144  grep php wilders.csv > test.csv
+  145  grep PHP wilders.csv > test4.csv
+  146  grep France 2019 PHP wilders.csv > php_france_2019.csv
+  147  grep "france,2019,php" wilders.csv > php-test.csv
+  148  grep "France,2019,PHP" wilders.csv > php3.csv
+  149  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  150  grep "Javascript,Toulouse,Biarritz" wilders.csv > javascript_biarritz_toulouse.csv
+  151  grep "JavaScript, Biarritz, Toulouse" wilders.csv > javascript_biarritz_toulouse.csv
+  152  grep "Biarritz, Toulouse, JavaScript" wilders > ultime.csv
+  153  grep "Biarritz, Toulouse, JavaScript" wilders.csv > ult.csv
+  154  grep "Biarritz,Toulouse,JavaScript" wilders.csv > testoooo.csv
+  155  grep "Biarritz,JavaScript" wilders.csv > un.csv
+  156  grep Biarritz wilders.csv > trois.csv
+  157  grep Biarritz JavaScript wilders.csv > troisa.csv
+  158  grep Biarritz wilders.csv > bia.csv
+  159  grep Toulouse wilders.csv > tou.csv
+  160  grep JavaScript bia.csv > javabia.csv
+  161  grep Javascript tou.csv > toujava.csv
+  162  grep JavaScript tou.csv > toujava.csv
+  163  cat toujava.csv javabia.csv | sort tada.csv
+  164  cat toujava.csv javabia.csv > alljava.csv
+  165  cat toujava.csv javabia.csv > javascript_biarritz_toulouse.csv
+  166  history
+  167  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  168  grep Javacript wilders.csv > elevejs.csv
+  169  grep JavaScript wilders.csv > elevejs.csv
+  170  grep Biarritz elevejs.csv > elevejsbia.csv
+  171  grep Toulouse elevejs.csv > elevejstou.csv
+  172  cat elevejsbia.csv elejstou.csv > javascript_biarritz_toulouse.csv
+  173  cat elevejsbia.csv elevejstou.csv > javascript_biarritz_toulouse.csv
+  174  history
+  175  tail 8 history > history.txt 
+  176  grep JavaScript wilders.csv > js.csv | grep Biarritz js.csv > biajs.csv | grep Toulouse js.csv > toujs.csv | cat toujs.csv biajs.csv > alltoubiajs.csv
+  177  tail 8 history
+  178  history tail 8
+  179  history tail8
+  180  history tail/8
+  181  history 8tail
+  182  history tail8\
+  183  history tail7
+  184  grep Javascript wilders.csv > js.csv
+  185  grep JavaScript wilders.csv > js.csv
+  186  grep Toulouse wilder.csv > javascript_biarritz_toulouse.csv
+  187  grep Toulouse js.csv > javascript_biarritz_toulouse.csv
+  188  grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  189  cat js.csv
+  190  cat js.csv tail9
+  191  cat tail/8 js.csv
+  192  cat tail js.csv
+  193  history > history.txt
+  194  history tail > historyz.txt
+  195  history / tail > historyze.txt
+  196  history | tail > his.txt
+  197  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  198  grep Javascript wilders.csv > js.csv
+  199  grep JavaScript wilders.csv > js.csv
+  200  grep Toulouse wilder.csv > javascript_biarritz_toulouse.csv
+  201  grep Toulouse js.csv > javascript_biarritz_toulouse.csv
+  202  grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  203  history | tail > history.txt
+  204  history | tail -n8 > history.txt
+  205  cd quetes/shell/planets
+  206  cd/real
+  207  cd real
+  208  rm Dwarf-planets
+  209  rm -r Dwarf-planets
+  210  rm dwarf-planets
+  211  rm -r dwar-planets
+  212  rmdir dwarf-planet
+  213  rmdir dwarf-planets
+  214  history
+  215  cd /
+  216  ls
+  217  ls -l
+  218  /tmp
+  219  cd /tmp
+  220  ls
+  221  ls -l
+  222  echo "je suis moisi" > vieuxtacos.txt
+  223  cat vieuxtacos.txt
+  224  echo "je ne suis pas moisi" > vieuxtacos.txt
+  225  cat vieuxtacos.txt
+  226  echo "mais un peu quand même..." >> vieuxtacos.txt
+  227  cat vieuxtacos.txt
+  228  rm vieuxtacos.txt
+  229  cat vieuxtacos.txt
+  230  cd ~
+  231  mkdir tacosfolder
+  232  cd ~
+  233  ls php_france_2019.csv
+  234  wc php_france_2019.csv
+  235  wc php_france_2019.csv > php_france_2019.csv
+  236  grep "France,2019,PHP" wilders.csv > php_france_2019.csv|wc > php_france_2019.csv
+  237  grep "France,2019,PHP" wilders.csv > php_france_2019.csv| wc grep php_france_2019.csv > php_france_2019.csv
+  238  wc php_france_2019.csv
+  239  wc php_france_2019.csv > test.csv
+  240  wc php_france_2019.csv > php_france_2018.csv
+  241  wc php_france_2019.csv > php_france_2019
+  242  wc php_france_2019.csv > php_france_2019.csv
+  243  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  244  mv grep  php_france_2019.csv php_trie.csv
+  245  grep "France,2019,PHP" wilders.csv > php.csv| wc php.csv > php_france_2019.csv
+  246  grep "France,2019,PHP" wilders.csv > php.csv | wc php.csv > php_france_2019.csv
+  247  cat wilders.csv 
+  248  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  249  grep "France,2019,PHP" wilders.csv > php.csv|wc php_france_2019.csv
+  250  wc php.csv > trois.csv
+  251  wc php.csv > php_france_2019.csv
+  252  grep "France,2019,PHP" wilders.csv > php.csv |wc php.csv > php_france_2019.csv
+  253  grep "France,2019,PHP" wilders.csv > php.csv
+  254  wc php.csv > php_france_2019.csv
+  255  grep Javascript wilders.csv > js.csv | grep JavaScript wilders.csv > js.csv |grep Toulouse wilder.csv > javascript_biarritz_toulouse.csv | grep Toulouse js.csv > javascript_biarritz_toulouse.csv | grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  256  grep Javascript wilders.csv > js.csv | grep JavaScript wilders.csv > js.csv |grep Toulouse wilders.csv > javascript_biarritz_toulouse.csv | grep Toulouse js.csv > javascript_biarritz_toulouse.csv | grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  257  grep "France,2019,PHP" wilders.csv > php.csv | wc php.csv > php_france_2019.csv
+  258  grep "France,2019,PHP" wilders.csv > php.csv
+  259  wc php.csv > php_france_2019.csv
+  260  grep Javascript wilders.csv > js.csv | grep Toulouse js.csv > javascript_biarritz_toulouse.csv | grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  261  grep "France,2019,PHP" wilders.csv | wc -l > php_france_2019.csv
+  262  grep JavaScript wilders.csv > js.csv | grep Toulouse js.csv > javascript_biarritz_toulouse.csv | grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  263  grep Toulouse js.csv > javascript_biarritz_toulouse.csv | grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  264  grep "France,2019,PHP" wilders.csv | wc -l > php_france_2019.csv
+  265  grep Toulouse js.csv > javascript_biarritz_toulouse.csv | grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  266  history | tail -n4 > history.txt
+  267  grep "France,2019,PHP" wilders.csv | wc -l > php_france_2019.csv
+  268  grep JavaScript wilders.csv > js.csv
+  269  grep Toulouse js.csv > javascript_biarritz_toulouse.csv | grep Biarritz js.csv >> javascript_biarritz_toulouse.csv
+  270  history | tail -n5 > history.txt
+  271  /usr/bin/python3 /home/wilder/Desktop/test.py
+  272  30
+  273  40
+  274  /usr/bin/python3 /home/wilder/Desktop/test.py
+  275  11
+  276  /usr/bin/python3 /home/wilder/Desktop/test.py
+  277  mkdir Web
+  278  cd Web
+  279  git statut
+  280  sudo apt install git
+  281  git statut
+  282  git --help
+  283  git statu
+  284  git status
+  285  cd docs
+  286  cd doc
+  287  cd web
+  288  cd Web
+  289  git init
+  290  git add bonjour.txt
+  291  cat
+  292  echo
+  293  history
+  294  clear
+  295  history
+  296  clear
+  297  git add index.htm
+  298  git commit -m "create index.htm"
+  299  git config --global user.email"tagot.nicolas@gmail.com"
+  300  git config --global user.name "mr-gateau"
+  301  git commit -m "create index.htm"
+  302  git config --global user.email "tagot.nicolas@gmail.com"
+  303  git statut
+  304  git status
+  305  git add style.css
+  306  git status
+  307  git checkout
+  308  git checkout --
+  309  git checkout -- .
+  310  git status
+  311  git config --global user.name "Mr-gateau"
+  312  git config --global user.email "tagot.nicolas@gmail.com"
+  313  git commit -m "on teste tout ça"
+  314  git push origin master
+  315  git status
+  316  git push
+  317  git push master
+  318  git push commit
+  319  git push --set--upstream
+  320  git push --set-upstream commit master
+  321  git status
+  322  git push master 
+  323  git push
+  324  git remote add index.html https://github.com/Mr-gateau/-sharezza
+  325  git push index.html
+  326  git push index.htm
+  327  git pushh --set-upstream index.htm mater
+  328  git --help
+  329  git clone https://github.com/Mr-gateau/-sharezza.git
+  330  cd sherazaa-
+  331  tree
+  332  cd -sharezza
+  333  cd sherezza
+  334  cd -sharezza
+  335  cd "-sharezza
+"
+  336  cd 
+  337  cd Web
+  338  cd "-sharezza"
+  339  git clone https://github.com/Mr-gateau/sharezza.git
+  340  cd sharezza
+  341  git status
+  342  git init
+  343  ls -a
+  344  git conf
+  345  git config
+  346  git commit
+  347  git status
+  348  git add index.htm
+  349  git add index.html
+  350  git status
+  351  git commit -m "index modifie"
+  352  git push 
+  353  git push -u origin master
+  354  history > history.txt
