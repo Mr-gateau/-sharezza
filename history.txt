@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   314  git push origin master
   315  git status
   316  git push
@@ -53,3 +54,58 @@
   365  git commit -m "reduction de l'historique" 
   366  git push
   367  history | tail -n55 > history.txt
+=======
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git add index.html
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git commit -m "ok test nul"
+[master (root-commit) 213aabd] ok test nul
+ 1 file changed, 11 insertions(+)
+ create mode 100644 index.html
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git log --oneline
+213aabd (HEAD -> master) ok test nul
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git add index.html
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git commit -m "etape une"
+[master ab5455c] etape une
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git log --oneline
+ab5455c (HEAD -> master) etape une
+213aabd ok test nul
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git add index.html
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git commit -m "tape deux"
+[master 7433e1b] tape deux
+ 1 file changed, 1 insertion(+)
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git add index.html
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git commit -m "la fameuse etape trois"
+[master e047215] la fameuse etape trois
+ 1 file changed, 2 deletions(-)
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git log --oneline
+e047215 (HEAD -> master) la fameuse etape trois
+7433e1b tape deux
+ab5455c etape une
+213aabd ok test nul
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git checkout ab5455c
+Note: checking out 'ab5455c'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you ay
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at ab5455c etape une
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git log --oneline
+ab5455c (HEAD) etape une
+213aabd ok test nul
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git checkout master
+Previous HEAD position was ab5455c etape une
+Switched to branch 'master'
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$ git log --oneline
+e047215 (HEAD -> master) la fameuse etape trois
+7433e1b tape deux
+ab5455c etape une
+213aabd ok test nul
+wilder@wilder-ThinkPad-T430:~/Web/sharezza-oops$
+
+>>>>>>> parent of 9e46316... clean
