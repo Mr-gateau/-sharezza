@@ -1,1 +1,55 @@
-Ok clean :) 
+  314  git push origin master
+  315  git status
+  316  git push
+  317  git push master
+  318  git push commit
+  319  git push --set--upstream
+  320  git push --set-upstream commit master
+  321  git status
+  322  git push master 
+  323  git push
+  324  git remote add index.html https://github.com/Mr-gateau/-sharezza
+  325  git push index.html
+  326  git push index.htm
+  327  git pushh --set-upstream index.htm mater
+  328  git --help
+  329  git clone https://github.com/Mr-gateau/-sharezza.git
+  330  cd sherazaa-
+  331  tree
+  332  cd -sharezza
+  333  cd sherezza
+  334  cd -sharezza
+  335  cd "-sharezza
+"
+  336  cd 
+  337  cd Web
+  338  cd "-sharezza"
+  339  git clone https://github.com/Mr-gateau/sharezza.git
+  340  cd sharezza
+  341  git status
+  342  git init
+  343  ls -a
+  344  git conf
+  345  git config
+  346  git commit
+  347  git status
+  348  git add index.htm
+  349  git add index.html
+  350  git status
+  351  git commit -m "index modifie"
+  352  git push 
+  353  git push -u origin master
+  354  history > history.txt
+  355  git add history.txt
+  356  git status
+  357  git push 
+  358  git status
+  359  git commit -m "ajout de l'historique"
+  360  git push
+  361  history | -n20 > history.txt
+  362  history | tail -n20 > history.txt
+  363  add history.txt
+  364  git add history.txt
+  365  git commit -m "reduction de l'historique" 
+  366  git push
+  367  history | tail -n55 > history.txt
